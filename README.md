@@ -1,5 +1,5 @@
 # Uaqyt
----
+
 Uaqyt (kaz. /uɑˈqɨt/ - time) is a minimalist Pomodoro timer Android application built with focus and productivity in mind.
 
 ## Tech Stack
