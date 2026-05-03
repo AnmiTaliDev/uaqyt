@@ -1,0 +1,27 @@
+Uaqyt Open Source Notice
+
+This application uses the following open-source dependencies:
+
+1. Jetpack Compose (androidx.compose)
+   License: Apache License 2.0
+   URL: https://developer.android.com/jetpack/compose
+
+2. Hilt (com.google.dagger:hilt-android)
+   License: Apache License 2.0
+   URL: https://dagger.dev/hilt/
+
+3. Kotlin Coroutines (org.jetbrains.kotlinx:kotlinx-coroutines-android)
+   License: Apache License 2.0
+   URL: https://github.com/Kotlin/kotlinx.coroutines
+
+4. DataStore (androidx.datastore)
+   License: Apache License 2.0
+   URL: https://developer.android.com/topic/libraries/architecture/datastore
+
+5. Navigation Compose (androidx.navigation:navigation-compose)
+   License: Apache License 2.0
+   URL: https://developer.android.com/jetpack/compose/navigation
+
+6. Google Fonts (androidx.compose.ui:ui-text-google-fonts)
+   License: Apache License 2.0
+   URL: https://developer.android.com/jetpack/compose/text/fonts

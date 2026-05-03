@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Uaqyt</string>
+    <string name="timer">Таймер</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+
+    <string name="work">Работа</string>
+    <string name="short_break">Короткий перерыв</string>
+    <string name="long_break">Длинный перерыв</string>
+
+    <string name="start">Старт</string>
+    <string name="pause">Пауза</string>
+    <string name="reset">Сброс</string>
+
+    <string name="session_count">Сессия %1$d из %2$d</string>
+
+    <string name="duration_settings">Настройки длительности</string>
+    <string name="auto_start_next">Автостарт следующей сессии</string>
+    <string name="notifications">Уведомления</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="vibration">Вибрация</string>
+    <string name="sound">Звук</string>
+
+    <string
+        name="about_text"
+    >Uaqyt (каз. /uɑˈqɨt/ - время) — это минималистичный Pomodoro таймер, созданный для концентрации и продуктивности.</string>
+    <string name="open_source_licenses">Лицензии открытого ПО</string>
+
+    <string name="minutes">%1$d мин</string>
+
+    <string name="notification_session_finished">Сессия завершена</string>
+    <string
+        name="notification_session_over"
+    >Режим «%1$s» окончен. Пора переходить к режиму «%2$s»!</string>
+    <string name="notification_start_work">Начать работу</string>
+    <string name="notification_start_break">Начать перерыв</string>
+</resources>
