@@ -13,7 +13,10 @@
 # Android build directories
 build/
 .gradle/
-gradle/
+
+# Keep gradle wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
 
 # Android signing files
 *.jks
@@ -64,7 +67,7 @@ fabric.properties
 # @detect: *.kt *.kts
 # Kotlin compiled files
 *.class
-*.jar
+#*.jar
 *.kotlin_module
 
 # Kotlin Multiplatform
@@ -95,4 +98,3 @@ META-INF/
 
 # Kotlin coroutines debug
 kotlinx-coroutines-core-jvm/
-
